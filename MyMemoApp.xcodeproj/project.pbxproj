@@ -14,6 +14,7 @@
 		E5EDCC291F8AB3820021601D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5EDCC271F8AB3820021601D /* LaunchScreen.storyboard */; };
 		E5EDCC341F8AB3820021601D /* MyMemoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5EDCC331F8AB3820021601D /* MyMemoAppTests.swift */; };
 		E5EDCC3F1F8AB3820021601D /* MyMemoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5EDCC3E1F8AB3820021601D /* MyMemoAppUITests.swift */; };
+		E5EDCC4D1F8AB5010021601D /* MemoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5EDCC4C1F8AB5010021601D /* MemoTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E5EDCC3A1F8AB3820021601D /* MyMemoAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyMemoAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5EDCC3E1F8AB3820021601D /* MyMemoAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMemoAppUITests.swift; sourceTree = "<group>"; };
 		E5EDCC401F8AB3820021601D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E5EDCC4C1F8AB5010021601D /* MemoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				E5EDCC1E1F8AB3820021601D /* AppDelegate.swift */,
 				E5EDCC201F8AB3820021601D /* ViewController.swift */,
 				E5EDCC221F8AB3820021601D /* Main.storyboard */,
+				E5EDCC4C1F8AB5010021601D /* MemoTableViewController.swift */,
 				E5EDCC251F8AB3820021601D /* Assets.xcassets */,
 				E5EDCC271F8AB3820021601D /* LaunchScreen.storyboard */,
 				E5EDCC2A1F8AB3820021601D /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				E5EDCC211F8AB3820021601D /* ViewController.swift in Sources */,
 				E5EDCC1F1F8AB3820021601D /* AppDelegate.swift in Sources */,
+				E5EDCC4D1F8AB5010021601D /* MemoTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
